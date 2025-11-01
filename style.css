@@ -192,7 +192,7 @@ header {
 
 @media (max-width: 900px) {
   .slider {
-    height: 500px;
+    height: 400px;
   }
 }
 
@@ -1078,5 +1078,6 @@ header {
   margin: 40px auto;
   width: 100%;
 }
+
 
 
